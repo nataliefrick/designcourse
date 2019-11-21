@@ -4,9 +4,7 @@ title: "DBWebb design"
 Min me-sida i kursen design
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
-
-[FIGURE src="image/natalie__0068.jpg?w=300" class="right" caption="Bild på mig"]
+[FIGURE src="image/natalie__0068.jpg?w=300" class="right" alt="Bild på mig" caption="Bild på mig"]
 
 Hej!  Natalie Salomons Frick heter jag. Lite om mig, jag bor i Östersund och har bott i Sverige i 14 år. Jag är uppväxt i Kanada dock föddes i Sydafrika. Min familj flyttade från Sydafrika innan apartied kom till sitt slut till Kanada eftersom min mor kommer därifrån.
 
