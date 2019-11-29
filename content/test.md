@@ -1,4 +1,20 @@
 ---
+views:
+    leftcolumn:
+        region: sidebar-left
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-column1
+
+    rightcolumn:
+        region: sidebar-right
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-column3
 ---
 Testsida
 =========================

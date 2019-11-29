@@ -1,12 +1,15 @@
 ---
 title: "DBWebb design"
 ---
+LINKS: [Vertical grid](../htdocs/?vgrid)   |   [Typographic grid](../htdocs/?hgrid)   |   Click on the HEM link in the menu to remove the grids.
+
+
 Min me-sida i kursen design
 =========================
 
 [FIGURE src="image/natalie__0068.jpg?w=300" class="right" alt="Bild på mig" caption="Bild på mig"]
 
-Hej!  Natalie Salomons Frick heter jag. Lite om mig, jag bor i Östersund och har bott i Sverige i 14 år. Jag är uppväxt i Kanada dock föddes i Sydafrika. Min familj flyttade från Sydafrika innan apartied kom till sitt slut till Kanada eftersom min mor kommer därifrån.
+Hej!  Natalie Salomons Frick heter jag. Lite om mig, jag bor i Östersund och har bott i Sverige i 14 år. Jag är uppväxt i Kanada dock föddes i Sydafrika. Min familj flyttade från Sydafrika till Kanada i slutet av 80-talet eftersom min mor kommer därifrån.
 
 Jag är civilingenjör och har jobbat i transportsektorn i ca. 10 år.  Jag flyttade till Sverige för att plugga på Mittuniversitetet på en magistersexamen inom ecotekik och hållbarutveckling.
 
