@@ -40,6 +40,21 @@ return [
             ],
         ],
         [
+            "text" => "Rapport",
+            "url" => "rapport",
+            "title" => "Olika rapport-uppgdrag från kursen.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Färg",
+                        "url" => "rapport/farg",
+                        "title" => "Rapport om användning av färg i hemsidor.",
+                    ],
+
+                ],
+            ],
+        ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",
