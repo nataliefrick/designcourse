@@ -1,8 +1,6 @@
 ---
 title: "DBWebb design"
 ---
-Stylesheet LINKS: [Minimalistic](../htdocs/?style=07_minimalistic_kmom04.min.css)   |   [Colourful](../htdocs/?style=07_colour_kmom04.min.css)    |   [Dark](../htdocs/?style=07_dark_kmom04.min.css) |   [Clear](../htdocs/?style=none)
-
 Min me-sida i kursen design
 =========================
 
