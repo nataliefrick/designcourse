@@ -49,9 +49,18 @@ return [
                         "url" => "rapport/farg",
                         "title" => "Rapport om användning av färg i hemsidor.",
                     ],
-
+                    [
+                        "text" => "PageSpeed",
+                        "url" => "rapport/loadingSpeed",
+                        "title" => "Rapport om Googles Pagespeed verktyg.",
+                    ],
                 ],
             ],
+        ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "En bild per dag, min dagliga journal.",
         ],
         [
             "text" => "Om",
